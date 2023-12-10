@@ -2,7 +2,7 @@
 # Blended Learning project
 
 his article describes our framework of blended learning that aims at developing a user-friendly platform designed to improve the accessibility and organization of learning. Centered around the needs of students and teachers, the platform aims to simplify scheduling, customize timetables, and boost
-engagement. By enabling students and teachers to share preferences and constraints, it aims to transform our approach to education. This initiative aims to not only make learning more efficient but also meet the unique needs of each student’s learning journey.
+engagement. By enabling students and teachers to share preferences and constraints, it aims to transform our approach to education. This initiative aims to not only make learning more efficient but also meet the unique needs of each student’s learning journey.
 
 ## Table of Contents
 
