@@ -36,7 +36,7 @@ The Angular front-end project is organized around six main components, each serv
 - **Purpose:** The ADD component is responsible for handling the addition of new items, entities, or data to the application.
 - **Functionality:** Users can input relevant information and submit data, triggering actions such as creating new records or entities.
 
-### 2. GETSION Component
+### 2. GESTION Component
 
 - **Purpose:** The GETSION component focuses on retrieving and displaying data from the backend server.
 - **Functionality:** It fetches and presents information, enabling users to view details or perform actions related to the retrieved data.
